@@ -16,4 +16,5 @@ Návrh na riešenie:
         4) Nájsť uživateľov z rovnakej siete (teda prechádzať a porovnávať všetkých so všetkými)             
 
 
-
+## Po prvom riešeni
+Náš výstup je celkom dobrý len by sme ho potrebovali upraviť...
